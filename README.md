@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Soy estudiante de Ingeniería en Sistemas desde el 2024 me he dedicado a desarrollar proyectos tanto universitarios como personales.</p>
+<p align="center">Soy estudiante de Ingeniería en Sistemas desde el 2023 me he dedicado a desarrollar proyectos tanto universitarios como personales.</p>
 
 ###
 
