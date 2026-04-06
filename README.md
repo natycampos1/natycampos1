@@ -28,19 +28,35 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 - ⚡ Fun fact: Creo que el mejor código es aquel que cualquiera puede entender  
 
 ---
-
 <div align="center">
 
 ## 📫 Contáctame
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/dev_nca)  
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:natdev.code@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dev.nca/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-aguilar-4a0667266/)  
-[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/dev_nca)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev_nca)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@dev_nca)
+<a href="https://discord.com/users/dev_nca">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
+</a>&nbsp;
+<a href="mailto:natdev.code@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;
+<a href="https://www.instagram.com/dev.nca/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/natalia-aguilar-4a0667266/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://open.spotify.com/user/dev_nca">
+  <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white" alt="Spotify" />
+</a>&nbsp;
+<a href="https://www.tiktok.com/@dev_nca">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok" />
+</a>&nbsp;
+<a href="https://www.youtube.com/@dev_nca">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
+</div>
+
+<div align="center">
 ---
 
 ## 🛠️ Stack Tecnológico
