@@ -98,7 +98,7 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 
 ###  ¡Aquí está mi CV!
 
-[![Descargar CV](https://img.shields.io/badge/⬇️%20Descargar%20CV%20Profesional-6B21A8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/natycampos1/natycampos1/raw/main/Natalia_Campos_CV.docx)
+[![Descargar CV](https://img.shields.io/badge/⬇️%20Descargar%20CV%20Profesional-6B21A8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/natycampos1/natycampos1/raw/main/Natalia_Campos_CV2026.pdf)
 
 *Disponible para prácticas, pasantías y posiciones junior en cualquier área de TI* 💼
 
