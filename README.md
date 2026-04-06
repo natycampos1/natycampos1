@@ -46,10 +46,14 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Herramientas**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 ---
@@ -100,7 +104,7 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" style="display:block;margin:auto;" />
 <br>
-### 💜 *"El conocimiento vale más cuando se comparte"*
+💜 "El conocimiento vale más cuando se comparte"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=100&section=footer" width="100%" />
 
