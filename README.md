@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=180&section=header&text=Natalia%20Campos%20Aguilar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ingeniería%20en%20Sistemas%20|%20Fidélitas&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=180&section=header&text=dev_nca&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ingeniería%20en%20Sistemas%20|%20Fidélitas&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💜 ¡Como estás! Soy dev_nca
+### 💜 ¡Hola! Soy Natalia Campos Aguilar  
+_mejor conocida como **dev_nca**_
+
 
 **Estudiante de Ingeniería en Sistemas** en la Universidad Fidélitas (2023 – presente)  
 Apasionada por el desarrollo de software, bases de datos y crear soluciones que impacten.  
