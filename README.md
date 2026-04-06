@@ -5,21 +5,17 @@
 ---
 
 <div align="center">
-
-### 💜 ¡Hola! Soy Natalia Campos Aguilar  
+### 💜 ¡Hola! Soy Natalia Campos Aguilar
 _mejor conocida como **dev_nca**_
-
 
 **Estudiante de Ingeniería en Sistemas** en la Universidad Fidélitas (2023 – presente)  
 Apasionada por el desarrollo de software, bases de datos y crear soluciones que impacten.  
 Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo todo lo que sé** en redes. 🚀
-
 </div>
 
 ---
 
 ## 🙋‍♀️ Sobre mí
-
 - 🎓 Estudiante de **Ingeniería en Sistemas** en **Universidad Fidélitas**, Costa Rica  
 - 💻 Desarrollo proyectos **universitarios y personales** desde 2023  
 - 📢 Próximamente crearé **contenido divulgativo** sobre programación en redes sociales  
@@ -28,44 +24,39 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 - ⚡ Fun fact: Creo que el mejor código es aquel que cualquiera puede entender  
 
 ---
+
 <div align="center">
-
 ## 📫 Contáctame
-
 <a href="https://discord.com/users/dev_nca">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" />
 </a>&nbsp;
 <a href="mailto:natdev.code@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail" />
 </a>&nbsp;
 <a href="https://www.instagram.com/dev.nca/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/natalia-aguilar-4a0667266/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;
 <a href="https://open.spotify.com/user/dev_nca">
-  <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white" alt="Spotify" />
+<img src="https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white" alt="Spotify" />
 </a>&nbsp;
 <a href="https://www.tiktok.com/@dev_nca">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok" />
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok" />
 </a>&nbsp;
 <a href="https://www.youtube.com/@dev_nca">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" />
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-
 </div>
 
-<div align="center">
 ---
 
 ## 🛠️ Stack Tecnológico
 
-
-
 **Lenguajes & Core**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -112,6 +103,8 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
 ## 📂 Proyectos Destacados
 
 | 🗂️ Proyecto | 🔧 Tecnologías | 📝 Descripción |
@@ -129,13 +122,11 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 ## 📜 Certificaciones
 
 <div align="center">
-
 ### 🏆 Mis certificados están disponibles en mi repositorio
 
-[![Ver Certificaciones](https://img.shields.io/badge/📁%20Ver%20Certificaciones-6B21A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natycampos1)
+[![Ver Certificaciones](https://img.shields.io/badge/📁%20Ver%20Certificaciones-6B21A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natycampos1)  
 
 > 💡 Encontrarás mis certificados en la carpeta `/certificaciones` dentro de mis repositorios
-
 </div>
 
 ---
@@ -143,23 +134,17 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 ## 📄 Currículum Vitae
 
 <div align="center">
+### ¡Aquí está mi CV!  
 
-###  ¡Aquí está mi CV!
-
-[![Descargar CV](https://img.shields.io/badge/⬇️%20Descargar%20CV%20Profesional-6B21A8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/natycampos1/natycampos1/raw/main/Natalia_Campos_CV_2026.pdf)
+[![Descargar CV](https://img.shields.io/badge/⬇️%20Descargar%20CV%20Profesional-6B21A8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/natycampos1/natycampos1/raw/main/Natalia_Campos_CV_2026.pdf)  
 
 *Disponible para prácticas, pasantías y posiciones junior en cualquier área de TI* 💼
-
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" style="display:block;margin:auto;" />
-<br>
-💜 "El conocimiento vale más cuando se comparte"
-
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" style="display:block;margin:auto;" /><br>
+💜 "El conocimiento vale más cuando se comparte"  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=100&section=footer" width="100%" />
-
 </div>
