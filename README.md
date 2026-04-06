@@ -29,6 +29,8 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 
 ---
 
+<div align="center">
+
 ## 📫 Contáctame
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/dev_nca)  
@@ -43,7 +45,7 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 
 ## 🛠️ Stack Tecnológico
 
-<div align="center">
+
 
 **Lenguajes & Core**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
