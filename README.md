@@ -85,6 +85,7 @@ Construyendo proyectos, aprendiendo cada día y próximamente **compartiendo tod
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Penpot](https://img.shields.io/badge/Penpot-00BFB3?style=for-the-badge&logo=penpot&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **IDE & Distribuciones**  
